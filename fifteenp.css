@@ -1,0 +1,62 @@
+
+.imgg1{
+	width: 100%;
+	height: 560px;
+	display: block;
+}
+.secmain{
+	position: absolute;
+	top: 25%;
+	left: 8%;
+	font-size: 30px;
+	text-align: center;
+}
+h1{
+	color: #111BEF;
+	font-family: sans-serif;
+}
+.samp {
+	font-size: 23px;
+	color: #2A10EB;
+	font-family: sans-serif;
+	margin-top: -35px;
+}
+.btn{
+	padding: 15px 25px 15px 25px;
+	background: rgba(0, 0, 0, .1);
+	border-radius: 5px;
+	border: 1px solid;
+	color: #11CCEE;
+	cursor: pointer;
+}
+.btn:hover{
+	color: white;
+	background-color: #BCE128;
+}
+
+.peryak{
+	background: purple;
+	color: white;
+	font-size: 20px;
+	margin-top: 0px;
+	text-align: center;
+	padding: 20px 10px 20px 10px;
+}
+.perdow{
+	color: #320EE8;
+	font-size: 20px;
+	margin-top: 0px;
+	text-align: center;
+	padding: 0px 10px 0px 10px;
+}
+.pall{
+	display: flex;
+}
+.parie{
+	background-color: blueviolet;
+	padding: 30px 20px 30px 20px;
+	color: white;
+}
+.parma{
+	padding: 30px 20px 30px 20px;
+}
